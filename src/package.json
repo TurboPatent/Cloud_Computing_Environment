@@ -1,0 +1,278 @@
+{
+  "name": "Cloud_Computing_Environment",
+  "description": "diagram of schematic and abstract model layers of a cloud computing environment used by IBM",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 109,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"7fbe9a61-416b-0c02-711d-820940686ea3\" id=\"id63a9a092-9a50-2a22-53c7-c84ddc4c6f0e\" data-type=\"term\">schematic diagram</span> of a <span data-role=\"tag\" data-value=\"60e04e13-9561-056c-2f89-0af3cd3b7991\" id=\"idf6fce524-6686-7aab-6360-b2642289b007\" data-type=\"term\">cloud computing environment</span> in which <span data-role=\"tag\" data-value=\"ce24df53-636c-739f-436b-f63f5eba2c38\" id=\"id7c817851-8fdb-fa73-872d-fdde4719f3f6\" data-type=\"term\">embodiments</span> of the <span data-role=\"tag\" data-value=\"b8985b85-2661-6e9f-12ba-19ae8cb7d935\" id=\"idaa065f52-f41f-43ab-6328-fd4552005be6\" data-type=\"term\">present invention</span> may be implemented.&nbsp;</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"757ef884-7450-8a7a-4c53-5da9bbbdc83e\" id=\"idc088c7c2-5d3d-3bc0-8502-dcc765c8c993\" data-type=\"term\">diagram</span> of <span data-role=\"tag\" data-value=\"7a5979f9-b21e-c492-59f5-8f659669afa1\" id=\"id5644896a-2357-12e6-7e42-bff29792d2ea\" data-type=\"term\">abstraction model layers</span> of a <span data-role=\"tag\" data-value=\"60e04e13-9561-056c-2f89-0af3cd3b7991\" id=\"id0a20d2e7-9a3c-0fa5-5b4e-8c937ec24add\" data-type=\"term\">cloud computing environment</span> in which <span data-role=\"tag\" data-value=\"ce24df53-636c-739f-436b-f63f5eba2c38\" id=\"ided93c47d-cf26-c98e-c7af-ce5f7fb0aad7\" data-type=\"term\">embodiments</span> of the <span data-role=\"tag\" data-value=\"b8985b85-2661-6e9f-12ba-19ae8cb7d935\" id=\"id3c32e301-536e-29cf-c853-02832f9b79a3\" data-type=\"term\">present invention</span> may be implemented.&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "item",
+        "number": 100
+      },
+      {
+        "name": "cloud computing environment",
+        "number": 102
+      },
+      {
+        "name": "computing nodes",
+        "number": 104
+      },
+      {
+        "name": "laptop computer",
+        "number": 106
+      },
+      {
+        "name": "automobile computer system",
+        "number": 108
+      },
+      {
+        "name": "desktop computer",
+        "number": 110
+      },
+      {
+        "name": "cellular telephone",
+        "number": 112
+      },
+      {
+        "name": "workloads workloads layer",
+        "number": 202
+      },
+      {
+        "name": "management layer",
+        "number": 204
+      },
+      {
+        "name": "Virtualization layer",
+        "number": 206
+      },
+      {
+        "name": "mapping and navigation",
+        "number": 208
+      },
+      {
+        "name": "hardware and software layer",
+        "number": 210
+      },
+      {
+        "name": "resource provisioning",
+        "number": 212
+      },
+      {
+        "name": "metering and pricing",
+        "number": 214
+      },
+      {
+        "name": "user portal",
+        "number": 216
+      },
+      {
+        "name": "service level management",
+        "number": 218
+      },
+      {
+        "name": "software development and lifecycle management",
+        "number": 220
+      },
+      {
+        "name": "Service Level Agreement (SLA) planning and fulfillment",
+        "number": 222
+      },
+      {
+        "name": "virtual classroom education delivery",
+        "number": 224
+      },
+      {
+        "name": "virtual servers",
+        "number": 226
+      },
+      {
+        "name": "data analytics processing",
+        "number": 228
+      },
+      {
+        "name": "transaction processing",
+        "number": 230
+      },
+      {
+        "name": "file transfer processing",
+        "number": 232
+      },
+      {
+        "name": "virtual storage",
+        "number": 234
+      },
+      {
+        "name": "virtual networks",
+        "number": 236
+      },
+      {
+        "name": "virtual applications and operating systems",
+        "number": 238
+      },
+      {
+        "name": "virtual clients",
+        "number": 240
+      },
+      {
+        "name": "mainframes",
+        "number": 242
+      },
+      {
+        "name": "RISC (Reduced Instruction Set Computer) architecture based servers",
+        "number": 244
+      },
+      {
+        "name": "servers",
+        "number": 246
+      },
+      {
+        "name": "blade servers",
+        "number": 248
+      },
+      {
+        "name": "storage devices",
+        "number": 250
+      },
+      {
+        "name": "networks and networking components",
+        "number": 252
+      },
+      {
+        "name": "network application server software",
+        "number": 254
+      },
+      {
+        "name": "database software",
+        "number": 256
+      }
+    ],
+    "terms": [
+      "access",
+      "consumers and system administrators",
+      "advance",
+      "Service Level Agreement (SLA) planning and fulfillment",
+      "virtual applications and operating systems",
+      "personal digital assistant",
+      "web browser",
+      "virtual clients",
+      "cloud",
+      "hybrid clouds",
+      "combination",
+      "community",
+      "components",
+      "hardware components",
+      "networks and networking components",
+      "software components",
+      "hardware and software components",
+      "computer",
+      "desktop computer",
+      "laptop computer",
+      "connection",
+      "cloud consumers",
+      "cloud consumer",
+      "consumption",
+      "data",
+      "virtual classroom education delivery",
+      "computerized device",
+      "computing devices",
+      "local computing devices",
+      "local computing device",
+      "storage devices",
+      "diagram",
+      "schematic diagram",
+      "embodiments",
+      "II embodiments",
+      "virtual entities",
+      "cloud computing environment",
+      "example",
+      "examples",
+      "following examples",
+      "one example",
+      "fulfillment",
+      "functions",
+      "workloads and functions",
+      "functionality",
+      "infrastructure",
+      "invention",
+      "present invention",
+      "billing or invoicing",
+      "layers",
+      "workloads layer",
+      "abstraction layer",
+      "functional abstraction layers",
+      "following layers",
+      "management layer",
+      "abstraction model layers",
+      "hardware and software layer",
+      "required service levels",
+      "application software licenses",
+      "mainframes",
+      "cloud computing resource allocation and management",
+      "service level management",
+      "software development and lifecycle management",
+      "metering and pricing",
+      "mapping and navigation",
+      "networks",
+      "one or more networks",
+      "network and/or network",
+      "virtual private networks",
+      "virtual networks",
+      "nodes",
+      "computing nodes",
+      "one or more cloud computing nodes",
+      "user portal",
+      "pre-arrangement",
+      "pricing",
+      "private",
+      "data analytics processing",
+      "transaction processing",
+      "file transfer processing",
+      "procurement",
+      "dynamic procurement",
+      "protection",
+      "resource provisioning",
+      "public",
+      "future requirement",
+      "resources",
+      "computing resources",
+      "other resources",
+      "security",
+      "servers",
+      "blade servers",
+      "virtual servers",
+      "services",
+      "RISC (Reduced Instruction Set Computer) architecture based servers",
+      "database software",
+      "platforms and/or software",
+      "network application server software",
+      "virtual storage",
+      "automobile computer system",
+      "operating systems",
+      "tasks",
+      "cloud consumers and tasks",
+      "cellular telephone",
+      "provide cost tracking",
+      "types",
+      "type",
+      "identity verification",
+      "Virtualization layer"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Cloud_Computing_Environment"
+}
